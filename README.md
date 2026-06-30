@@ -1,5 +1,5 @@
 # 📊 E-Commerce Sales Analytics
-End-to-End Data Analytics Project | Excel | SQL | Python | Power BI
+### End-to-End Data Analytics Project | Excel | SQL | Python | Power BI
 
 An end-to-end Data Analytics project that analyzes Superstore sales data using Excel, SQL, Python, and Power BI. The project focuses on data cleaning, business insights, and interactive dashboard creation to support data-driven decision-making.
 
