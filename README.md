@@ -122,6 +122,6 @@ Ecommerce-Sales-Analytics
 
 **Tanvee Durafe**
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: linkedin.com/in/tanveedurafe
 
 GitHub: https://github.com/tanveeeD
